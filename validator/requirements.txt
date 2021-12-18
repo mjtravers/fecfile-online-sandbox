@@ -1,0 +1,10 @@
+Flask
+Sphinx
+pytest
+coverage
+pytest-cov
+pylint
+requests
+jsonschema
+json-schema-for-humans
+openpyxl
