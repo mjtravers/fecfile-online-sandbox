@@ -1,3 +1,3 @@
 #!/bin/bash
 
-generate-schema-doc . html
+generate-schema-doc . ../../docs
